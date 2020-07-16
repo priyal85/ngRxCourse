@@ -1,17 +1,34 @@
-{"customers" :[
-  {
-    "name" :"John Doe",
-    "phone" :"910928392098",
-    "address" :"123 Sun Street",
-    "menbership" :"Platinum",
-    "id" : 1
-  },
-  {
-    "name" :"Mary Johnson",
-    "phone" :"808937482734",
-    "address" :"893 Main Voulevard",
-    "menbership" :"Pro",
-    "id" : 2
-  }
-]
+{
+  "customers": [
+    {
+      "name": "John Doe",
+      "phone": "910928392098",
+      "address": "123 Sun Street",
+      "menbership": "Platinum",
+      "id": 1,
+      "membership": "Platinum"
+    },
+    {
+      "name": "Mary Johnson",
+      "phone": "808937482734",
+      "address": "893 Main Voulevard",
+      "menbership": "Pro",
+      "id": 2,
+      "membership": "Pro"
+    },
+    {
+      "name": "Nimal",
+      "phone": "Fernando",
+      "address": "888445558",
+      "membership": "Basic",
+      "id": 3
+    },
+    {
+      "name": "Kamal Perera",
+      "phone": "7845668",
+      "address": "Negombo",
+      "membership": "Pro",
+      "id": 4
+    }
+  ]
 }
