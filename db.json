@@ -29,6 +29,27 @@
       "address": "Negombo",
       "membership": "Pro",
       "id": 4
+    },
+    {
+      "name": "",
+      "phone": "",
+      "address": "",
+      "membership": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "phone": "",
+      "address": "",
+      "membership": "",
+      "id": 6
+    },
+    {
+      "name": null,
+      "phone": null,
+      "address": null,
+      "membership": null,
+      "id": 7
     }
   ]
 }
